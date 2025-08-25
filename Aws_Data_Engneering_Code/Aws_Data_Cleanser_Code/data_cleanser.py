@@ -5,3 +5,4 @@ class DataCleanser():
         logger.info("Hi I am in data cleanser")
         var="hello"
         return var
+
