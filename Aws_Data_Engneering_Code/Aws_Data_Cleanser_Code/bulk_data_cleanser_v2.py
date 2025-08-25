@@ -87,3 +87,5 @@ if __name__ == "__main__":
     bucket = args['SOURCE_S3_BUCKET']
     target_path = args['TARGET_S3_PATH']
     DataCleanser.main(bucket,target_path, logger)
+
+
